@@ -1,12 +1,30 @@
-- 👋 Hi, I’m @anacoder45
-- 👀 I’m interested in compatilhar mys cods
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-- 😄 Pronouns: eu
-- ⚡ Fun fact: ...
+## Olá, Mundo! 🚀
 
-<!---
-anacoder45/anacoder45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Bem-vindo ao meu perfil no GitHub! Sou [Seu Nome], uma programadora iniciante apaixonada por tecnologia e carros. Aqui você encontrará meus projetos e experimentos em programação, bem como um pouco sobre mim e minhas paixões. 
+
+## Sobre Mim
+
+🎓 **Estudante de Tecnologia**: Estou sempre em busca de novos conhecimentos e desafios no mundo da programação. Atualmente, estou aprendendo [linguagens ou tecnologias específicas que você está estudando, como Python, JavaScript, etc.].
+
+🚗 **Entusiasta de Carros**: Fora do mundo da programação, sou uma grande fã de carros e tudo relacionado ao universo automotivo. Adoro explorar novas tecnologias automotivas e como elas podem se integrar com a programação.
+
+## Projetos em Destaque
+
+por enquanto nenhum colocado aqui
+
+## Tecnologias e Ferramentas
+
+- **Linguagens de Programação**: [Liste as linguagens que você está aprendendo ou já conhece]
+- **Frameworks e Bibliotecas**: [Liste os frameworks e bibliotecas que você usa, como React, Django, etc.]
+- **Ferramentas de Desenvolvimento**: [Liste ferramentas como Git, Docker, etc.]
+
+## Contato
+
+- **Email**: [anhinha2529@gmail.com]
+- **LinkedIn**: [https://www.linkedin.com/in/ana-vitoria-nunes-de-aguiar-21605030a/?trk=opento_sprofile_topcard]
+- **Twitter**: [https://x.com/Anhinha_529]
+
+## Contribuições
+
+Sinta-se à vontade para contribuir com meus projetos! Caso encontre algum bug ou tenha sugestões de melhorias, abra uma *issue* ou envie um *pull request*. Estou sempre disposta a aprender e a melhorar!
+
