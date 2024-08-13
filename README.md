@@ -1,6 +1,6 @@
 ## Olá, Mundo! 🚀
 
-Bem-vindo ao meu perfil no GitHub! Sou [Seu Nome], uma programadora iniciante apaixonada por tecnologia e carros. Aqui você encontrará meus projetos e experimentos em programação, bem como um pouco sobre mim e minhas paixões. 
+Bem-vindo ao meu perfil no GitHub! Sou [Ana Vitoria], uma programadora iniciante apaixonada por tecnologia e carros. Aqui você encontrará meus projetos e experimentos em programação, bem como um pouco sobre mim e minhas paixões. 
 
 ## Sobre Mim
 
