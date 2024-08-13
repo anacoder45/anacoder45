@@ -14,9 +14,8 @@ por enquanto nenhum colocado aqui
 
 ## Tecnologias e Ferramentas
 
-- **Linguagens de Programação**: [Liste as linguagens que você está aprendendo ou já conhece]
-- **Frameworks e Bibliotecas**: [Liste os frameworks e bibliotecas que você usa, como React, Django, etc.]
-- **Ferramentas de Desenvolvimento**: [Liste ferramentas como Git, Docker, etc.]
+- **Linguagens de Programação**: [HTMl, CSS, JavaScript]
+- **Ferramentas de Desenvolvimento**: [GitHub, Instagram, Visual Studio Code]
 
 ## Contato
 
