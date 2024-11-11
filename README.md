@@ -20,7 +20,6 @@ por enquanto nenhum colocado aqui
 ## Contato
 
 - **Email**: anhinha2529@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/ana-vitoria-nunes-de-aguiar-21605030a/?trk=opento_sprofile_topcard
 - **Twitter**: https://x.com/Anhinha_529
 
 ## Contribuições
